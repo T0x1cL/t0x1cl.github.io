@@ -1,7 +1,7 @@
 Flawed ElGamal
 ===
 ## Summary
-**Author:** Black Bauhinia  
+**Author:** Mystiz
 **Categories:** crypto, ★☆☆☆☆  
 **Points:** 50
 
