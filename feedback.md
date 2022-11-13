@@ -15,7 +15,7 @@ It is 24 hours before the game ends. Please fill us the [feedback](https://docs.
 
 ---
 
-Step 0: Fill in the form
+Step 0: Fill in the form  
 Step 1: Copy the flag given  
 Step 2: Paste  
 Step 3: Submit
