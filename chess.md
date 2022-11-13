@@ -36,7 +36,9 @@ P.S. The attachment is the same one from jumping-fish. You can just download it 
 ```
 python tcpproxy.py -ti 43.198.35.216 -tp 28046 -lp 8000 -im replace:search=rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR:replace=rnbqkb1r/ppppp1pp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR,replace:search=rnbqkb1r/ppppp3/6p1/8/3Pn3/8/PPP2PPP/RNB1KBNR:replace=rnbqkb1r/ppppp3/6p1/8/3PB3/8/PPP2PPP/RNB1KBNR,textdump -om textdump 
 ```
+- once you win, you should get the flag in the command line
 
+&#x200B;
 - turns out it's because the length of the text you're replacing and the length of the text you're replacing it with must be the same  
 - also it keeps increasing in RAM usage (possibly related to this: https://github.com/ggez/ggez/issues/1128 -harrier)
 ---
@@ -47,3 +49,4 @@ hkcert22{m1tM-pr03y-c0u1d-h3lppp?e3en-st0ckf1sh15-c4n'7_w1n_u!!}
 ## Comments
 - google en passant  
 - holy hell
+- (im pretty sure the bot player is stockfish?)
