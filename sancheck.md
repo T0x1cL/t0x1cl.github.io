@@ -1,8 +1,8 @@
 Sanity Check
 ===
 ## Summary
-**Author:** Black Bauhinia
-**Categories:** ☆☆☆☆☆
+**Author:** Black Bauhinia  
+**Categories:** ☆☆☆☆☆  
 **Points:** 10
 
 ## Description
