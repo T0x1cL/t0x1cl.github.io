@@ -1,7 +1,7 @@
 Flawed ElGamal
 ===
 ## Summary
-**Author:** Mystiz
+**Author:** Mystiz  
 **Categories:** crypto, ★☆☆☆☆  
 **Points:** 50
 
@@ -29,7 +29,8 @@ c2 = 116627313506287897522563682613789057558267825740474021763338761932096116163
 - You really only need the `c2` that it gives you, because `m = gcd(c2, c2', c2'', ...)` as given by writeup. I `nc` it 10 times 
 - Once you have the `m` you can get the flag by using `int.to_bytes`.  
 
-===
+---
+
 ## Script Used
 ```
 a = 118573823034474169435138782173253144746759915774884486236705930399926961222399363734729998576737442495918733469391282021889415855438489694622471652095511677988637858200121111575267456768616110675187495102194302940773481851512701536040356657212683408205588560142891544168262590530282977408181014298902849
@@ -57,6 +58,6 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-===
+---
 ## Flag
 I'll put it in in a few hours
