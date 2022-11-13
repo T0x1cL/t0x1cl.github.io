@@ -60,4 +60,4 @@ if __name__ == "__main__":
 ```
 ---
 ## Flag
-I'll put it in in a few hours
+hkcert22{4nd_th1s_t1m3_7h3_i5su3_1s_s0l31y_n0t_t4k1n9_m0du10s}
