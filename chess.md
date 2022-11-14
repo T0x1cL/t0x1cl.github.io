@@ -33,9 +33,7 @@ P.S. The attachment is the same one from jumping-fish. You can just download it 
 - And then I get stuck trying to replace `rnbqkbnr/pppp2pp/4pp2/8/3PP3/8/PPP2PPP/RNBQKBNR` with   
  `rnbqkbnr/ppppp2p/5p2/6p1/3P4/4P3/PPP2PPP/RNBQKBNR`, but it freezes up
 - After some trial and error, I thought that you had to replace a piece with another piece or replace it with a 1, so i used
-```
-python tcpproxy.py -ti 43.198.35.216 -tp 28046 -lp 8000 -im replace:search=rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR:replace=rnbqkb1r/ppppp1pp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR,replace:search=rnbqkb1r/ppppp3/6p1/8/3Pn3/8/PPP2PPP/RNB1KBNR:replace=rnbqkb1r/ppppp3/6p1/8/3PB3/8/PPP2PPP/RNB1KBNR,textdump -om textdump 
-```
+> ```python tcpproxy.py -ti 43.198.35.216 -tp 28046 -lp 8000 -im replace:search=rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR:replace=rnbqkb1r/ppppp1pp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR,replace:search=rnbqkb1r/ppppp3/6p1/8/3Pn3/8/PPP2PPP/RNB1KBNR:replace=rnbqkb1r/ppppp3/6p1/8/3PB3/8/PPP2PPP/RNB1KBNR,textdump -om textdump ```
 - once you win, you should get the flag in the command line
 
 &#x200B;
